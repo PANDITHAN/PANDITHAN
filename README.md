@@ -27,6 +27,36 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
-Known Languages and Tools
+### Known Languages and Tools
 
 <img align="right" src="https://github.com/Gowtham2003/Gowtham2003/blob/master/assets/Developer.gif"/>
+
+
+![CLang](https://img.shields.io/badge/Clang-black.svg?style=for-the-badge&logo=C&labelColor=black)
+![Java](https://img.shields.io/badge/Java-black.svg?style=for-the-badge&logo=Java&labelColor=black)
+![Python](https://img.shields.io/badge/Python-black.svg?style=for-the-badge&logo=Python&labelColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-black.svg?style=for-the-badge&logo=Javascript&labelColor=black)
+![Typescript](https://img.shields.io/badge/Typescript-black.svg?style=for-the-badge&logo=Typescript&labelColor=black)
+![php](https://img.shields.io/badge/PHP-black.svg?style=for-the-badge&logo=php&labelColor=black)
+![lua](https://img.shields.io/badge/Lua-black.svg?style=for-the-badge&logo=lua&labelColor=black)
+![Android](https://img.shields.io/badge/Android-black.svg?style=for-the-badge&logo=Android&labelColor=black)
+![Flask](https://img.shields.io/badge/Flask-black.svg?style=for-the-badge&logo=Flask&labelColor=black)
+![Express](https://img.shields.io/badge/Express-black.svg?style=for-the-badge&logo=Express&labelColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-black.svg?style=for-the-badge&logo=laravel&labelColor=black)
+![GraphQL](https://img.shields.io/badge/GraphQL-black.svg?style=for-the-badge&logo=GraphQL&labelColor=black)
+![React](https://img.shields.io/badge/React-black.svg?style=for-the-badge&logo=React&labelColor=black)
+![NEXTJS](https://img.shields.io/badge/NextJs-black.svg?style=for-the-badge&logo=Next.js&labelColor=000000)
+![Gatsby](https://img.shields.io/badge/Gatsby-black.svg?style=for-the-badge&logo=Gatsby&labelColor=000000)
+![Svelte](https://img.shields.io/badge/Svelte-black.svg?style=for-the-badge&logo=Svelte&labelColor=black)
+![GitHub](https://img.shields.io/badge/Github-black.svg?style=for-the-badge&logo=Github&labelColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-black.svg?style=for-the-badge&logo=Bootstrap&labelColor=black&logoWidth=20)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-black.svg?style=for-the-badge&logo=Tailwindcss&labelColor=black&logoWidth=20)
+![SQLite](https://img.shields.io/badge/Sqlite-black.svg?style=for-the-badge&logo=Sqlite&labelColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-black.svg?style=for-the-badge&logo=mongodb&labelColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-black.svg?style=for-the-badge&logo=MySQL&labelColor=black)
+![Git](https://img.shields.io/badge/Git-black.svg?style=for-the-badge&logo=Git&labelColor=black)
+![Linux](https://img.shields.io/badge/Linux-black.svg?style=for-the-badge&logo=Linux&labelColor=black)
+![Docker](https://img.shields.io/badge/Docker-black.svg?style=for-the-badge&logo=Docker&labelColor=black)
+![Vim](https://img.shields.io/badge/Vim-black.svg?style=for-the-badge&logo=Vim&labelColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-black.svg?style=for-the-badge&logo=Firebase&labelColor=black)
+<br/><br/>
