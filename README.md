@@ -14,12 +14,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=PANDITHAN&theme=highcontrast" align="center">
 </p>
 <details>
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  <summary><b>:gear: &nbsp;GitHub Statistics And more about</b></summary>
   <br/>
   <a href="https://github.com/PANDITHAN">
     <p align="left">
-        <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=m4mallu&theme=ayu-mirage&hide_border=true" />
+        <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=PANDITHAN&theme=ayu-mirage&hide_border=true" />
     </p>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
+🎵 Now playing
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com/)
