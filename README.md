@@ -24,7 +24,6 @@
 🎵 Now playing
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com/)
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
 ### Known Languages and Tools
@@ -60,3 +59,5 @@
 ![Vim](https://img.shields.io/badge/Vim-black.svg?style=for-the-badge&logo=Vim&labelColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-black.svg?style=for-the-badge&logo=Firebase&labelColor=black)
 <br/><br/>
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
