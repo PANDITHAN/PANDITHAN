@@ -20,9 +20,8 @@
     <p align="left">
         <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=PANDITHAN&theme=ayu-mirage&hide_border=true" />
     </p>
-## 🎵 Now playing
+🎵 Now playing
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com/)
-
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
