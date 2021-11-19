@@ -4,11 +4,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm 𝗣𝗔𝗡𝗗𝗜𝗧𝗛𝗔𝗡</h1>
 
 ![RUN](https://github.com/AmineSoukara/AmineSoukara/raw/master/dino.gif)
-<h3 align="center">𝔽𝕆𝕃𝕃𝕆𝕎 𝕄𝔼 𝕆ℕ<img align="center" src="https://github.com/Gowtham2003/Gowtham2003/blob/master/assets/Handshake.gif" height="33px" /></h3>
-<p align="center">
-<a href="https://t.me/PANDITHAN_SIR"><img alt="Telegram" src="https://img.shields.io/badge/𝙿𝚁𝙾𝙵𝙸𝙻𝙴-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://t.me/M_STER_TECH"><img alt="Telegram" src="https://img.shields.io/badge/𝙲𝙷𝙰𝙽𝙽𝙴𝙻-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-</p>
+
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=PANDITHAN&theme=highcontrast" align="center">
