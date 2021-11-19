@@ -28,7 +28,7 @@
 
 ### Known Languages and Tools
 
-<img align="right" src="https://github.com/Gowtham2003/Gowtham2003/blob/master/assets/Developer.gif"/>
+<img align="right" src="https://github.com/PANDITHAN/PANDITHAN/blob/main/assets/Developer.gif"/>
 
 
 ![CLang](https://img.shields.io/badge/Clang-black.svg?style=for-the-badge&logo=C&labelColor=black)
