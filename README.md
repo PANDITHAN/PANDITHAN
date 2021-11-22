@@ -30,6 +30,7 @@
   <a href="https://github.com/PANDITHAN" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=PANDITHAN&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
+
 🎵 Now playing
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com/)
 
