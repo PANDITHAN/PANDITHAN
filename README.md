@@ -21,6 +21,9 @@
         <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=PANDITHAN&theme=ayu-mirage&hide_border=true" />
     </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PANDITHAN&theme=highcontrast)
+
+
 🎵 Now playing
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com/)
 
