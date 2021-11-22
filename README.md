@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<a href="https://github.com/PANDITHAN" target="_blank">
+                <a href="https://github.com/PANDITHAN" target="_blank">
     <img alt="GitHub Followers" src="https://img.shields.io/github/followers/PANDITHAN?label=Github%20followers&style=for-the-badge">
   </a> <br> <br>
   <a href="https://github.com/PANDITHAN" target="_blank">
