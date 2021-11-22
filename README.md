@@ -1,10 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-                <a href="https://github.com/PANDITHAN" target="_blank">
-    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/PANDITHAN?label=Github%20followers&style=for-the-badge">
-  </a> <br> <br>
-  <a href="https://github.com/PANDITHAN" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=PANDITHAN&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm 𝗣𝗔𝗡𝗗𝗜𝗧𝗛𝗔𝗡</h1>
 
@@ -28,6 +24,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PANDITHAN&theme=highcontrast)
 
+<a href="https://github.com/PANDITHAN" target="_blank">
+    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/PANDITHAN?label=Github%20followers&style=for-the-badge">
+  </a> <br> <br>
+  <a href="https://github.com/PANDITHAN" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=PANDITHAN&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
 🎵 Now playing
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com/)
