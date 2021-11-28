@@ -70,5 +70,5 @@
 ![Firebase](https://img.shields.io/badge/Firebase-black.svg?style=for-the-badge&logo=Firebase&labelColor=black)
 <br/><br/>
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
+<img align="center" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
 
