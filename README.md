@@ -15,7 +15,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=PANDITHAN&theme=highcontrast" align="center">
 </p>
 <details>
-  <summary><b>:gear: &nbsp;GitHub Statistics And more about</b></summary>
+  <summary><b>:gear: &nbsp;click here to more information</b></summary>
   <br/>
   <a href="https://github.com/PANDITHAN">
     <p align="left">
